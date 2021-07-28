@@ -1,0 +1,22 @@
+{
+  "name": "my-stack-gqso",
+  "version": "1.0.0",
+  "description": "exemplo de pilha em JavaScript com testes em Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alysson-sm/My-stack-gqso.git"
+  },
+  "author": "alysson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Alysson-sm/My-stack-gqso/issues"
+  },
+  "homepage": "https://github.com/Alysson-sm/My-stack-gqso#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
